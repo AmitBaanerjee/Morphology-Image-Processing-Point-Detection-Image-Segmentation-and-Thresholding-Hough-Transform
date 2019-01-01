@@ -50,7 +50,7 @@ Coordinates of Box4: (387, 41) (41, 425) (425, 253) (387, 253)
 <img src="images/segment.jpg">
 </p>
 <p align="center">
-<img src="images/segment_output.jpg">
+<img src="images/segment_box_output.jpg">
 </p>
 
 Task 3: Hough Transform
